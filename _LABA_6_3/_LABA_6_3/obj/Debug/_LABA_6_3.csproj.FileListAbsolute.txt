@@ -1,0 +1,7 @@
+C:\Users\Элина\source\repos\_LABA_6_3\_LABA_6_3\bin\Debug\_LABA_6_3.exe.config
+C:\Users\Элина\source\repos\_LABA_6_3\_LABA_6_3\bin\Debug\_LABA_6_3.exe
+C:\Users\Элина\source\repos\_LABA_6_3\_LABA_6_3\bin\Debug\_LABA_6_3.pdb
+C:\Users\Элина\source\repos\_LABA_6_3\_LABA_6_3\obj\Debug\_LABA_6_3.csproj.AssemblyReference.cache
+C:\Users\Элина\source\repos\_LABA_6_3\_LABA_6_3\obj\Debug\_LABA_6_3.csproj.CoreCompileInputs.cache
+C:\Users\Элина\source\repos\_LABA_6_3\_LABA_6_3\obj\Debug\_LABA_6_3.exe
+C:\Users\Элина\source\repos\_LABA_6_3\_LABA_6_3\obj\Debug\_LABA_6_3.pdb
